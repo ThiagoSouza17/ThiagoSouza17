@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-**🔭 I’m currently practicing on Project Xadrez-Console em C#.**\
-**🌱 I’m currently learning C#, ASP .NET Core MVC, something of React, and a little bit of Dart/Flutter.**\
+**🔭 I’m currently practicing on ASP NET Core MVC C#-Project.**\
+**🌱 I’m currently learning C#, SQL Server, SAP B1.**\
 **👯 I’m looking to collaborate on Open Sources Projects and others.**
 
 ### Follow me on my social networks:
