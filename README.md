@@ -1,8 +1,5 @@
 ## Welcome 👋
 
-**🔭 I’m currently practicing on ASP NET Core MVC C#-Project.**\
-**🌱 I’m currently learning C#, SQL Server, SAP B1.**\
-**👯 I’m looking to collaborate on Open Sources Projects and others.**
 
 ### Follow me on my social networks:
 
