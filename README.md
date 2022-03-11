@@ -5,7 +5,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoSouza17)](https://github.com/ThiagoSouza17)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-dos-santos-souza-b4183553/)](https://www.linkedin.com/in/thiago-dos-santos-souza-b4183553/)
+
+
 ![Snake animation](https://github.com/ThiagoSouza17/ThiagoSouza17/blob/output/github-contribution-grid-snake.svg)
+
 
  
 <div>
@@ -17,7 +20,9 @@
     </a>
 <div>
         
-
+ 
+ 
+ 
         
 <!--
 <a href="https://github.com/thiagosouza17">
